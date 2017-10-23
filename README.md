@@ -1,7 +1,7 @@
 
 # My Dotfiles
 
-Include ZSH, oh-my-zsh and new ununtu project setup
+Include ZSH, oh-my-zsh and new ubuntu new system setup
 
 ![Shell ScreenShot](shell.png?raw=true "Shell")
 
@@ -14,12 +14,15 @@ To install my dotfiles as *your*
 
 ```
 cd ~/dotfiles
+sudo apt-get install autojump
 ./setup.sh
 ```
 or to setup new machine
 ```
 ./setup-new-machine.sh
 ```
+
+Select system to be `Inconsolata Powerline Fonts`.
 
 
 ##### Git symbols
