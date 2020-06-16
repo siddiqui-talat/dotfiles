@@ -69,5 +69,5 @@ Plug 'tpope/vim-dadbod'
 
 Plug 'janko/vim-test'
 
-Plug 'wakatime/vim-wakatime'
+" Plug 'wakatime/vim-wakatime'
 call plug#end()

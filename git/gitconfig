@@ -2,8 +2,8 @@
   editor = "nvim"
   pager = delta --theme="Nord" --24-bit-color="always" --file-color="#84a0c6" --hunk-color="#84a0c6" --plus-color="#45493e" --plus-emph-color="#2C3025" --minus-color="#53343b" --minus-emph-color="#200108"
 [user]
-	email = shetty.raxx555@gmail.com
-	name = Rakshan Shetty
+	email = siddiqui.t@peopleinteractive.in
+	name = Talat Siddiqui
 
 [alias]
     # Pull
